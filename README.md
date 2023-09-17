@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jones@jonesw.live**
 
-- ⚡ Recent fact **New to UK with my wife and 2 year-old angel**
+- ⚡ Recent fact **New to UK with my wife and 3 year-old angel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
