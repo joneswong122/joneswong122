@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm Jones Wong</h1>
-<h3 align="center">A passionate full stack developer from Hong Kong</h3>
+<h1 align="center">Hi 👋, I'm CF Wong (Jones)</h1>
+<h3 align="center">A passionate full stack developer/Project Manager from Hong Kong and currently based in UK</h3>
 
-- 🔭 I’m currently working on [Nova platform (Live boardcast solution)](https://hktw-resources.awscloud.com/nextgen-infra-web-day-hong-kong/serverless-architecture-for-live-video-broadcasting)
+- 🔭 I’m currently working on [Nova platform (Live broadcast solution)](https://hktw-resources.awscloud.com/nextgen-infra-web-day-hong-kong/serverless-architecture-for-live-video-broadcasting)
 
-- 🌱 I’m currently learning **React and Python**
+- 💬 Ask me about **AWS, Live Broadcasting and Project management**
 
-- 💬 Ask me about **AWS, Boardcasting and Project management**
-
-- 📫 How to reach me **jones@jonesw.live**
-
-- ⚡ Recent fact **New to UK with my wife and 3 year-old angel**
+- 📫 How to reach me **jones_wong@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
